@@ -6,7 +6,7 @@ Submitted by: Chinaemere Ike
 
 Time spent: between 25-30 hours in total
 
-Hello! Chinaemere Ike. I am a sophomore Computer Science & Political Science major at Texas A&M University. 
+Hello! I'm Chinaemere Ike. I am a sophomore Computer Science & Political Science major at Texas A&M University. 
 
 The following **required** functionality is complete:
 * [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
